@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+
+div[data-testid="stCaptionContainer"] {
+    color: #888 !important;
+    text-align: center !important;
+    font-style: italic;
+}
